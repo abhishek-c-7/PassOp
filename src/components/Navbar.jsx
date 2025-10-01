@@ -17,7 +17,7 @@ const Navbar = () => {
               src="icons/github.svg"
               alt="github logo"
             />
-            <span className="font-bold px-2">/</span>
+            <span className="font-bold px-2"></span>
           </button>
         </a>
       </div>
