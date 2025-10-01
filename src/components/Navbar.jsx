@@ -2,12 +2,12 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="bg-slate-800 text-white">
+    <nav className="bg-slate-800 text-white m-0 ">
       <div className="mycontainer  flex justify-around items-center px-4 py-5 h-14 ">
         <div className="logo font-bold text-2xl">
-          <span className="text-green-500 ">&lt;</span>
+          <span className="text-green-500 p-3 ">&lt;</span>
           Pass
-          <span className="text-green-500 ">OP/ &gt;</span>
+          <span className="text-green-500 p-3">OP/ &gt;</span>
         </div>
 
         <a href="https://github.com/abhishek-c-7/PassOp" target="_blank">
@@ -17,7 +17,7 @@ const Navbar = () => {
               src="icons/github.svg"
               alt="github logo"
             />
-            <span className="font-bold px-2">Github</span>
+            <span className="font-bold px-2">/</span>
           </button>
         </a>
       </div>
