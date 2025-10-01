@@ -9,7 +9,7 @@ const Footer = () => {
         <span className="text-green-500 ">OP/ &gt;</span>
       </div>
       <div className="flex justify-center items-center">
-        Made with <img className="w-6 mx-2" src="icons/heart.png" alt="" /> by Arib Mehdi
+        Made with <img className="w-6 mx-2" src="icons/heart.png" alt="" /> by Abhishek
       </div>
     </div>
   );
