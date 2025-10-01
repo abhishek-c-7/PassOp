@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="logo font-bold text-2xl">
           <span className="text-green-500">&lt;</span>
           Pass
-          <span className="text-green-500">OP/ &gt;</span>
+          <span className="text-green-500">OP/&gt;</span>
         </div>
 
         <a href="https://github.com/abhishek-c-7/PassOp" target="_blank">
